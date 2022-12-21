@@ -38,13 +38,9 @@
 
 ###
 
-<br clear="both">
-
 - 🌱 I’m currently learning PHP
 
 ###
-
-<br clear="both">
 
 - ❓ Ask me if you have any questions about me and my skills on [myMail](mailto:grischko.kevin@gmail.com)
 
