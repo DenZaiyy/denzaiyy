@@ -34,11 +34,11 @@
 
 <br clear="both">
 
-- 🔭 I’m currently working on [POO_Cinema](https://github.com/denzaiyy/poo_cinema)
+- 🔭 I’m currently working on [OOP_Cinema](https://github.com/denzaiyy/poo_cinema)
 
 ###
 
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP v8.1.10
 
 ###
 
