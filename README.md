@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-- 🔭 I’m currently working on [OOP_Cinema](https://github.com/denzaiyy/poo_cinema)
+- 🔭 I’m currently working on [My first PHP App]([https://github.com/denzaiyy/poo_cinema](https://github.com/DenZaiyy/PHP-App))
 
 ###
 
