@@ -39,7 +39,7 @@
 
 ###
 
-- ❓ Ask me if you have any questions about me and my skills on [myMail](mailto:grischko.kevin@gmail.com)
+- ❓ Ask me if you have any questions about me and my skills on [Linkedin](https://www.linkedin.com/in/kevin-grischko-428482202/)
 
 ###
 
