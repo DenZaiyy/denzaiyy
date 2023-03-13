@@ -6,20 +6,18 @@
   </a>
 </div>
 
-<h2 align="left">Happy to see you here!</h2>
+### Happy to see you here!
 <p align="left">I'm new in web development, I'm a person passionate about programming, that's why I decided to make it my job through a professional retraining.</p>
 <p align="left">I am currently starting a training allowing me to acquire new skills in web development, I will practice in different programming languages, mainly in PHP</p>
 
-###
-
-<h2 align="left">About</h2>
+## :man_student: About
 
 - :wave: My name is Kevin, i have 24 years old.
 - 🔭 I’m currently working on [SQL_Cinema](https://github.com/DenZaiyy/SQL_Cinema) (Actually private repo)
 - 🌱 I’m currently learning PHP v8.1.10
 - ❓ Ask me if you have any questions about me and my skills on [Linkedin](https://www.linkedin.com/in/kevin-grischko-428482202/)
 
-<h2 align="left">⚡ Skills</h2>
+## ⚡ Skills
 <details open>
   <summary>:desktop_computer: Web Development</summary>
   <br clear="both">
@@ -66,7 +64,7 @@
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress logo"  />
 </details>
 
-<h2 align="left">:bar_chart: Github Stats</h2>
+## :bar_chart: Github Stats
 <br clear="both">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=denzaiyy" height="150" alt="stats graph"  />
