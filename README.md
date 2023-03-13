@@ -50,6 +50,7 @@
   <summary>:books: Training</summary>
   <br clear="both">
   <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp logo"  />
+  <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="sololearn logo" />
   <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="mdndocs logo"  />
 </details>
 
