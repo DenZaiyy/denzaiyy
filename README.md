@@ -13,7 +13,7 @@
 ## :man_student: About
 
 - :wave: My name is Kevin, i have 24 years old.
-- 🔭 I’m currently working on [SQL_Cinema](https://github.com/DenZaiyy/SQL_Cinema) (Actually private repo)
+- 🔭 I’m currently working on [SQL_Forum](https://github.com/DenZaiyy/SQL_Forum)
 - 🌱 I’m currently learning PHP v8.1.10
 - ❓ Ask me if you have any questions about me and my skills on [Linkedin](https://www.linkedin.com/in/kevin-grischko-428482202/)
 
