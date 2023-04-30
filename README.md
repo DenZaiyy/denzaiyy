@@ -14,7 +14,7 @@
 
 - :wave: My name is Kevin, i have 24 years old.
 - 🔭 I’m currently working on [sfSession](https://github.com/DenZaiyy/sfSessionTW)
-- 🌱 I’m currently learning PHP v8.1.10
+- 🌱 I’m currently learning PHP v8.2.4
 - ❓ Ask me if you have any questions about me and my skills on [Linkedin](https://www.linkedin.com/in/kevin-grischko-428482202/)
 
 ## ⚡ Skills
