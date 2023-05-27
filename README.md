@@ -19,7 +19,7 @@
 ## :man_student: About / A propos
 
 - :wave: My name is Kevin, i have 24 years old.<br>
-- 🔭 I’m currently working on [K-Gaming (Personal project for exam)](https://github.com/DenZaiyy/K-Gaming) but actually in private
+- 🔭 I’m currently working on [K-Gaming (Personal project for exam)](https://github.com/DenZaiyy/K-Gaming)
 - 🌱 I’m currently learning [Symfony 6](https://symfony.com/doc/current/setup.html)
 - ❓ If you have any questions about me and my skills, u can contact me on [Linkedin](https://www.linkedin.com/in/kevin-grischko-428482202/)
 
