@@ -19,7 +19,7 @@
 ## :man_student: About / A propos
 
 - :wave: My name is Kevin, i have 24 years old.<br>
-- 🔭 I’m currently working on [Laravel APP](https://github.com/DenZaiyy/laravel-learn)
+- 🔭 I’m currently working on [React Typescript Portfolio](https://github.com/DenZaiyy/portfolio-ide)
 - 🌱 I’m currently learning [ReactJS](https://fr.legacy.reactjs.org/)
 - ❓ If you have any questions about me and my skills, u can contact me on [Linkedin](https://www.linkedin.com/in/kevin-grischko-428482202/)
 
