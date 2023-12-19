@@ -19,8 +19,8 @@
 ## :man_student: About / A propos
 
 - :wave: My name is Kevin, i have 24 years old.<br>
-- 🔭 I’m currently working on [React Typescript Portfolio](https://github.com/DenZaiyy/portfolio-ide)
-- 🌱 I’m currently learning [ReactJS](https://fr.legacy.reactjs.org/)
+- 🔭 I’m currently working on [K-Gaming](https://github.com/DenZaiyy/k-gaming) (add feature and translations)
+- 🌱 I’m currently learning [ReactJS](https://fr.legacy.reactjs.org/) (with typescript and not)
 - ❓ If you have any questions about me and my skills, u can contact me on [Linkedin](https://www.linkedin.com/in/kevin-grischko-428482202/)
 
 
