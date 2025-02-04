@@ -1,4 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&width=600&lines=Welcome+to+my+github+profile+!;My+name+is+Kevin%2C+i+have+26+yo;I'm+passionate+web+developper" alt="Typing SVG" />
+
 ---
 
 ## :man_student: About Me / À propos de moi
