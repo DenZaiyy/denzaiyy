@@ -1,98 +1,90 @@
-<h1 align="left">Hi there / Bonjour :wave:</h1>
+# :wave: Hi there / Bonjour
 
-<a href="https://www.linkedin.com/in/kevin-grischko-428482202/" target="_blank">
-	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=33A1F2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+Kevin,+a+passionate+developer." alt="Typing SVG" />
+</p>
+
+<a href="https://www.linkedin.com/in/kevin-grischko/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 
-### Happy to see you here! / Heureux de vous voir ici!
+---
+
+## :man_student: About Me / À propos de moi
+
+<details>
+  <summary>English</summary>
+  <p align="left">I'm a junior web developer, passionate about programming. I decided to make it my career through a professional retraining.</p>
+  <p align="left">After completing my training as a web and mobile developer and obtaining my professional qualification, I'm currently working as a work-study application developer at <a href="https://mtfibertech.fr" target="_blank">MTFibertech</a>.</p>
+</details>
+
 <details open>
-  <summary>ENG</summary>
-<p align="left">I'm new in web development, I'm a person passionate about programming, that's why I decided to make it my job through a professional retraining.</p>
-<p align="left">Having completed my training as a web and mobile web developer, and obtained my professional qualification, I'm currently looking for a company to continue my career on a work-study contract.</p>
-  </details>
-  <details>
-  <summary>FR</summary>
-  <p align="left">Je suis novice dans le développement web, je suis une personne passionnée par la programmation, c'est pourquoi j'ai décidé d'en faire mon métier par le biais d'une reconversion professionnelle.</p>
-  <p align="left">Ayant terminé ma formation en tant que développeur web et web mobile, et ayant obtenu le titre professionnel, je suis actuellement à la recherche d'une entreprise pour une suite de parcours en contrat d'alternance.</p>
-  </details>
-
-## :man_student: About / A propos
-
-- :wave: My name is Kevin, i have 25 years old.<br>
-- 🔭 I’m currently working on [Portfolio IDE](https://github.com/DenZaiyy/portfolio-ide)
-- 🌱 I’m currently learning [NextJS](https://nextjs.org/docs)
-- ❓ If you have any questions about me and my skills, u can contact me on [Linkedin](https://www.linkedin.com/in/kevin-grischko-428482202/)
-
-
-## ⚡ Skills / Compétences
-<details open>
-  <summary>:desktop_computer: Web Development</summary>
-  <br clear="both">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 logo"  />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3 logo"  />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass logo"  />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap logo"  />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript logo"  />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind logo" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php logo"  />
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white" alt="symfony logo"  />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite logo" />
+  <summary>Français</summary>
+  <p align="left">Je suis un développeur web junior, passionné par la programmation. J'ai choisi d'en faire mon métier à travers une reconversion professionnelle.</p>
+  <p align="left">Après avoir terminé ma formation de développeur web et web mobile et obtenu mon titre professionnel, je suis actuellement en alternance en tant que concepteur-développeur d'applications chez <a href="https://mtfibertech.fr" target="_blank">MTFibertech</a>.</p>
 </details>
 
-<details>
-  <summary>:art: Design</summary>
-  <br clear="both">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma logo"  />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva logo" />
-</details>
+---
 
-<details>
-  <summary>:rocket: Learning</summary>
-  <br clear="both">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react logo"  />
-	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript badge" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel logo" />
-	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python logo" />
-</details>
+## :rocket: Skills / Compétences
 
-<details>
-  <summary>:books: Training Site</summary>
-  <br clear="both">
-  <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp logo"  />
-  <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="sololearn logo" />
-  <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="mdndocs logo"  />
-  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy logo"  />
-</details>
+### :briefcase: Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<details>
-  <summary>:hammer_and_wrench: Tools</summary>
-  <br clear="both">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello logo"  />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode logo"  />
-  <img src="https://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" alt="phpstorm logo"  />
-  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" alt="laragon logo"  />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker logo" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman logo" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite logo" />
-</details>
+### :art: Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-<details>
-  <summary>:desktop_computer: OS</summary>
-  <br clear="both">
-  <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" alt="windows11 logo"  />
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macos logo"  />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu logo"  />
-</details>
+### :books: Learning
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![AdonisJS](https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
+![StoryBook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
-## :bar_chart: Github Stats
-<br clear="both">
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=denzaiyy" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&username=denzaiyy" height="150" alt="languages graph"  />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denzaiyy&theme=github_dark" alt="summary card" />
-</div>
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=denzaiyy.denzaiyy&left_text=Profile%20views"  />
-</div>
+### :hammer_and_wrench: Tools
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PHPStorm](https://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+### :computer: OS
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
+
+## :file_folder: Projects / Projets
+
+🔹 [**K-Gaming**](https://github.com/denzaiyy/k-gaming) - Projet d'examen pour le titre DWWM, e-commerce pour vente de jeu en dématérialiser, en Symfony.  
+🔹 [**Multitwitch**](https://github.com/denzaiyy/multitwitch) - Petit site permettant l'affichage de plusieurs chaînes twitch en même temps (4 max), en React TSX.  
+🔹 [**BOT Discord**](https://github.com/denzaiyy/denz-bot-ts) - BOT discord permettant de notifier dans un channel spécifique la présence d'un live d'une personne enregistré en base de données, en Typescript.  
+🔹 [**NextAmazon**](https://github.com/denzaiyy/nextamazon) - Projet e-commerce en NextJS guidé pour apprendre le framework fullstack.  
+🔹 [**Portfolio IDE**](https://github.com/denzaiyy/portfolio-ide) - Portfolio conçu avec un design IDE permettant d'avoir un portfolio originale, en React TSX.  
+
+---
+
+## :bar_chart: GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=denzaiyy&show_icons=true&theme=github_dark" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denzaiyy&layout=compact&theme=github_dark" height="150" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denzaiyy&theme=github_dark" alt="Profile Details" />
+</p>
+
+---
+
+📫 **Contact Me**: You can reach me on [LinkedIn](https://www.linkedin.com/in/kevin-grischko/)!
