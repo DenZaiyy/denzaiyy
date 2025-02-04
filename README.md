@@ -1,13 +1,4 @@
-# :wave: Hi there / Bonjour
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=33A1F2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+Kevin,+a+passionate+developer." alt="Typing SVG" />
-</p>
-
-<a href="https://www.linkedin.com/in/kevin-grischko/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-</a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&width=600&lines=Welcome+to+my+github+profile+!;My+name+is+Kevin%2C+i+have+26+yo;I'm+passionate+web+developper" alt="Typing SVG" /></a>
 ---
 
 ## :man_student: About Me / À propos de moi
