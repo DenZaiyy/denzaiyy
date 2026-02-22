@@ -60,12 +60,9 @@
 
 ## :file_folder: Recent projects / Projets récents
 
-🔹 [**K-Gaming**](https://github.com/denzaiyy/k-gaming) - Projet d'examen pour le titre DWWM, e-commerce pour vente de jeu en dématérialiser, en Symfony.  
-🔹 [**Multitwitch**](https://github.com/denzaiyy/multitwitch) - Petit site permettant l'affichage de plusieurs chaînes twitch en même temps (4 max), en React TSX.  
-🔹 [**BOT Discord**](https://github.com/denzaiyy/denz-bot-ts) - BOT discord permettant de notifier dans un channel spécifique la présence d'un live d'une personne enregistré en base de données, en Typescript.  
-🔹 [**NextAmazon**](https://github.com/denzaiyy/nextamazon) - Projet e-commerce en NextJS guidé pour apprendre le framework fullstack.  
-🔹 [**Portfolio IDE**](https://github.com/denzaiyy/portfolio-ide) - Portfolio conçu avec un design IDE permettant d'avoir un portfolio originale, en React TSX.  
-
+{{range recentRepos 10}}
+- 🔹 [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
 ---
 
 ## :bar_chart: GitHub Stats
