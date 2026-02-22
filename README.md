@@ -57,6 +57,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
+## 👷 Check out what I'm currently working on
+---
 
 ## :file_folder: Recent projects / Projets récents
 
