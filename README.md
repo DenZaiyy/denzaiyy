@@ -58,6 +58,18 @@
 
 ---
 ## 👷 Check out what I'm currently working on
+
+- [DenZaiyy/denzaiyy](https://github.com/DenZaiyy/denzaiyy) -  (today)
+- [DenZaiyy/hardwarehouse-sf](https://github.com/DenZaiyy/hardwarehouse-sf) - Symfony APP to manage client order and using api created with nextjs (1 week ago)
+- [LINDECKER-Charles/SEOKIT-Symfony](https://github.com/LINDECKER-Charles/SEOKIT-Symfony) - Kit SEO pour Symfony : gestion centralisée des balises meta, Open Graph et Twitter Cards via Twig. (1 week ago)
+- [DenZaiyy/hwh-api-spring](https://github.com/DenZaiyy/hwh-api-spring) - Hardwarehouse API reproduced with Java Spring Boot to learn (1 week ago)
+- [DenZaiyy/hardwarehouse-api](https://github.com/DenZaiyy/hardwarehouse-api) - NextJS application to create an API platform for managing products, category, brand and stocks about my store (1 week ago)
+- [DenZaiyy/column_remover](https://github.com/DenZaiyy/column_remover) - Python Script to remove unused column from sql script (4 months ago)
+- [DenZaiyy/sf_cda](https://github.com/DenZaiyy/sf_cda) - Application Symfony sécurisée, testée, dockerisée et déployée (FrankenPHP) (5 months ago)
+- [DenZaiyy/SQL_Gaulois-CDA](https://github.com/DenZaiyy/SQL_Gaulois-CDA) - Exercice gaulois avec des requêtes SQL plus poussés pour le niveau CDA (8 months ago)
+- [DenZaiyy/sfSessionTW](https://github.com/DenZaiyy/sfSessionTW) - Symfony 6 project, to manage training sessions with a list of people who participate or not in the session, with different programs, content of different categories and modules (8 months ago)
+- [DenZaiyy/next-recipe](https://github.com/DenZaiyy/next-recipe) - Project based to list recipes with user reviews, blog and meal planner for user and nutritional infos with chartjs (8 months ago)
+
 ---
 
 ## :file_folder: Recent projects / Projets récents
