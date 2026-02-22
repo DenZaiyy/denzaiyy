@@ -60,12 +60,17 @@
 
 ## :file_folder: Recent projects / Projets récents
 
-🔹 [**K-Gaming**](https://github.com/denzaiyy/k-gaming) - Projet d'examen pour le titre DWWM, e-commerce pour vente de jeu en dématérialiser, en Symfony.  
-🔹 [**Multitwitch**](https://github.com/denzaiyy/multitwitch) - Petit site permettant l'affichage de plusieurs chaînes twitch en même temps (4 max), en React TSX.  
-🔹 [**BOT Discord**](https://github.com/denzaiyy/denz-bot-ts) - BOT discord permettant de notifier dans un channel spécifique la présence d'un live d'une personne enregistré en base de données, en Typescript.  
-🔹 [**NextAmazon**](https://github.com/denzaiyy/nextamazon) - Projet e-commerce en NextJS guidé pour apprendre le framework fullstack.  
-🔹 [**Portfolio IDE**](https://github.com/denzaiyy/portfolio-ide) - Portfolio conçu avec un design IDE permettant d'avoir un portfolio originale, en React TSX.  
 
+- 🔹 [DenZaiyy/hardwarehouse-sf](https://github.com/DenZaiyy/hardwarehouse-sf) - Symfony APP to manage client order and using api created with nextjs
+- 🔹 [DenZaiyy/hwh-api-spring](https://github.com/DenZaiyy/hwh-api-spring) - Hardwarehouse API reproduced with Java Spring Boot to learn
+- 🔹 [DenZaiyy/hardwarehouse-api](https://github.com/DenZaiyy/hardwarehouse-api) - NextJS application to create an API platform for managing products, category, brand and stocks about my store
+- 🔹 [DenZaiyy/sf_cda](https://github.com/DenZaiyy/sf_cda) - Application Symfony sécurisée, testée, dockerisée et déployée (FrankenPHP)
+- 🔹 [DenZaiyy/SQL_Gaulois-CDA](https://github.com/DenZaiyy/SQL_Gaulois-CDA) - Exercice gaulois avec des requêtes SQL plus poussés pour le niveau CDA
+- 🔹 [DenZaiyy/sf_boilerplate](https://github.com/DenZaiyy/sf_boilerplate) - Boilerplate for symfony 7.2 project using tailwind v4 and symfony ux bundles
+- 🔹 [DenZaiyy/column_remover](https://github.com/DenZaiyy/column_remover) - Python Script to remove unused column from sql script
+- 🔹 [DenZaiyy/next-api-itinerary](https://github.com/DenZaiyy/next-api-itinerary) - Next API app for SF-itinerary
+- 🔹 [DenZaiyy/sf-itinerary](https://github.com/DenZaiyy/sf-itinerary) - Symfony 7 app to interact with next-api-itinerary
+- 🔹 [DenZaiyy/next-recipe](https://github.com/DenZaiyy/next-recipe) - Project based to list recipes with user reviews, blog and meal planner for user and nutritional infos with chartjs
 ---
 
 ## :bar_chart: GitHub Stats
