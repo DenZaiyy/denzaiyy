@@ -58,7 +58,7 @@
 
 ---
 ## 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
@@ -66,7 +66,7 @@
 
 ## :file_folder: Recent projects / Projets récents
 
-{{range recentRepos 10}}
+{{range recentRepos 5}}
 - 🔹 [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 ---
