@@ -70,11 +70,11 @@
 ## :file_folder: Recent projects / Projets récents
 
 
-- 🔹 [DenZaiyy/hardwarehouse-sf](https://github.com/DenZaiyy/hardwarehouse-sf) - Symfony APP to manage client order and using api created with nextjs
-- 🔹 [DenZaiyy/hwh-api-spring](https://github.com/DenZaiyy/hwh-api-spring) - Hardwarehouse API reproduced with Java Spring Boot to learn
-- 🔹 [DenZaiyy/hardwarehouse-api](https://github.com/DenZaiyy/hardwarehouse-api) - NextJS application to create an API platform for managing products, category, brand and stocks about my store
-- 🔹 [DenZaiyy/sf_cda](https://github.com/DenZaiyy/sf_cda) - Application Symfony sécurisée, testée, dockerisée et déployée (FrankenPHP)
-- 🔹 [DenZaiyy/SQL_Gaulois-CDA](https://github.com/DenZaiyy/SQL_Gaulois-CDA) - Exercice gaulois avec des requêtes SQL plus poussés pour le niveau CDA
+🔹 [DenZaiyy/hardwarehouse-sf](https://github.com/DenZaiyy/hardwarehouse-sf) - Symfony APP to manage client order and using api created with nextjs
+🔹 [DenZaiyy/hwh-api-spring](https://github.com/DenZaiyy/hwh-api-spring) - Hardwarehouse API reproduced with Java Spring Boot to learn
+🔹 [DenZaiyy/hardwarehouse-api](https://github.com/DenZaiyy/hardwarehouse-api) - NextJS application to create an API platform for managing products, category, brand and stocks about my store
+🔹 [DenZaiyy/sf_cda](https://github.com/DenZaiyy/sf_cda) - Application Symfony sécurisée, testée, dockerisée et déployée (FrankenPHP)
+🔹 [DenZaiyy/SQL_Gaulois-CDA](https://github.com/DenZaiyy/SQL_Gaulois-CDA) - Exercice gaulois avec des requêtes SQL plus poussés pour le niveau CDA
 ---
 
 ## :bar_chart: GitHub Stats
