@@ -67,7 +67,7 @@
 ## :file_folder: Recent projects / Projets récents
 
 {{range recentRepos 5}}
-🔹 [{{.Name}}]({{.URL}}) - {{.Description}}
+- 🔹 [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 ---
 
