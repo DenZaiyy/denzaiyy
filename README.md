@@ -70,11 +70,11 @@
 ## :file_folder: Recent projects / Projets récents
 
 
-🔹 [DenZaiyy/hardwarehouse-sf](https://github.com/DenZaiyy/hardwarehouse-sf) - Symfony APP to manage client order and using api created with nextjs
-🔹 [DenZaiyy/hardwarehouse-api](https://github.com/DenZaiyy/hardwarehouse-api) - NextJS application to create an API platform for managing products, category, brand and stocks about my store
-🔹 [DenZaiyy/sf_cda](https://github.com/DenZaiyy/sf_cda) - Application Symfony sécurisée, testée, dockerisée et déployée (FrankenPHP)
-🔹 [DenZaiyy/SQL_Gaulois-CDA](https://github.com/DenZaiyy/SQL_Gaulois-CDA) - Exercice gaulois avec des requêtes SQL plus poussés pour le niveau CDA
-🔹 [DenZaiyy/sf_boilerplate](https://github.com/DenZaiyy/sf_boilerplate) - Boilerplate for symfony 7.2 project using tailwind v4 and symfony ux bundles
+- 🔹 [DenZaiyy/hardwarehouse-sf](https://github.com/DenZaiyy/hardwarehouse-sf) - Symfony APP to manage client order and using api created with nextjs
+- 🔹 [DenZaiyy/hardwarehouse-api](https://github.com/DenZaiyy/hardwarehouse-api) - NextJS application to create an API platform for managing products, category, brand and stocks about my store
+- 🔹 [DenZaiyy/sf_cda](https://github.com/DenZaiyy/sf_cda) - Application Symfony sécurisée, testée, dockerisée et déployée (FrankenPHP)
+- 🔹 [DenZaiyy/SQL_Gaulois-CDA](https://github.com/DenZaiyy/SQL_Gaulois-CDA) - Exercice gaulois avec des requêtes SQL plus poussés pour le niveau CDA
+- 🔹 [DenZaiyy/sf_boilerplate](https://github.com/DenZaiyy/sf_boilerplate) - Boilerplate for symfony 7.2 project using tailwind v4 and symfony ux bundles
 ---
 
 ## :bar_chart: GitHub Stats
