@@ -59,8 +59,8 @@
 ---
 ## 👷 Check out what I'm currently working on
 
-- [DenZaiyy/hardwarehouse-sf](https://github.com/DenZaiyy/hardwarehouse-sf) - Symfony APP to manage client order and using api created with nextjs (today)
-- [DenZaiyy/hardwarehouse-api](https://github.com/DenZaiyy/hardwarehouse-api) - NextJS application to create an API platform for managing products, category, brand and stocks about my store (4 days ago)
+- [DenZaiyy/hardwarehouse-sf](https://github.com/DenZaiyy/hardwarehouse-sf) - Symfony APP to manage client order and using api created with nextjs (1 day ago)
+- [DenZaiyy/hardwarehouse-api](https://github.com/DenZaiyy/hardwarehouse-api) - NextJS application to create an API platform for managing products, category, brand and stocks about my store (5 days ago)
 - [DenZaiyy/denzaiyy](https://github.com/DenZaiyy/denzaiyy) -  (3 weeks ago)
 - [LINDECKER-Charles/SEOKIT-Symfony](https://github.com/LINDECKER-Charles/SEOKIT-Symfony) - Kit SEO pour Symfony : gestion centralisée des balises meta, Open Graph et Twitter Cards via Twig. (1 month ago)
 - [DenZaiyy/column_remover](https://github.com/DenZaiyy/column_remover) - Python Script to remove unused column from sql script (4 months ago)
