@@ -59,8 +59,8 @@
 ---
 ## 👷 Check out what I'm currently working on
 
+- [DenZaiyy/hardwarehouse-sf](https://github.com/DenZaiyy/hardwarehouse-sf) - Symfony APP to manage client order and using api created with nextjs (today)
 - [DenZaiyy/hardwarehouse-api](https://github.com/DenZaiyy/hardwarehouse-api) - NextJS application to create an API platform for managing products, category, brand and stocks about my store (3 days ago)
-- [DenZaiyy/hardwarehouse-sf](https://github.com/DenZaiyy/hardwarehouse-sf) - Symfony APP to manage client order and using api created with nextjs (3 days ago)
 - [MTFibertech/MTFibertech](https://github.com/MTFibertech/MTFibertech) -  (5 days ago)
 - [DenZaiyy/denzaiyy](https://github.com/DenZaiyy/denzaiyy) -  (1 month ago)
 - [LINDECKER-Charles/SEOKIT-Symfony](https://github.com/LINDECKER-Charles/SEOKIT-Symfony) - Kit SEO pour Symfony : gestion centralisée des balises meta, Open Graph et Twitter Cards via Twig. (1 month ago)
